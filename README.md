@@ -66,7 +66,7 @@ Number-Ninja-Game/
 │
 ├── Number_Ninja.py      # Main game script
 ├── README.md               # Project documentation
-└── Micro_Project_Report.pdf                 
+└── LISENCE                 
 ```
 
 ---
